@@ -18,6 +18,11 @@ git config --global user.email
 "fulanodetal@exemplo.br"
 ```
 
+### 1.3 Verificando as configurações
+```js
+git config --list
+```
+
 ## 2 -Subir alterações para o repositório remoto
 
 ### 1- Verificar as alterações
